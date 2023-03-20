@@ -1,7 +1,7 @@
-import './style.css';
-import './fontawesome/all.css';
-import './fontawesome/fontawesome.css';
-import Board from './board.js';
+import "./style.css";
+import "./fontawesome/all.css";
+import "./fontawesome/fontawesome.css";
+import Board from "./board";
 import {
     singleBlockSize, wellColumns, wellRows,
     frameCount, setFrameCount, incFrameCount,
