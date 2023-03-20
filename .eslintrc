@@ -1,0 +1,14 @@
+{
+    "extends": "airbnb-base",
+    "rules": {
+        "semi": ["error", "always"],
+        "quotes": ["error", "double"],
+        "eqeqeq": "off"
+    },
+    "globals": {
+        "window": "readonly",
+        "document": "readonly",
+        "cancelAnimationFrame": "readonly",
+        "requestAnimationFrame": "readonly"
+    }
+}
